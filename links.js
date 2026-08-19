@@ -26,9 +26,7 @@ window.DIRECTORY_DATA = {
           "url": "https://wrongfirst.github.io/dsa",
           "languages": [
             "python",
-            "typescript",
             "go",
-            "ocaml"
           ],
           "description": "first level dsa problems"
         },
@@ -37,9 +35,7 @@ window.DIRECTORY_DATA = {
           "url": "https://wrongfirst.github.io/more-dsa",
           "languages": [
             "python",
-            "typescript",
             "go",
-            "ocaml"
           ],
           "description": "another round of problems covering more patterns"
         },
@@ -48,9 +44,7 @@ window.DIRECTORY_DATA = {
           "url": "https://wrongfirst.github.io/most-dsa",
           "languages": [
             "python",
-            "typescript",
             "go",
-            "ocaml"
           ],
           "description": "you already know where this is going"
         }
