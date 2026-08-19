@@ -19,7 +19,7 @@ window.DIRECTORY_DATA = {
             "go",
             "ocaml"
           ],
-          "description": "some syntax and basic concepts you might have forgotten"
+          "description": "some syntax and basic concepts you (probably) forgot"
         },
         {
           "name": "dsa",
